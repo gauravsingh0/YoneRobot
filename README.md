@@ -15,7 +15,7 @@
 </p>
 
 # YoneRobot
-Me On Telegram [✨Yone✨](https://t.me/YoneRobot)
+Me On Telegram [✨Yone✨](https://t.me/@Yone_xrobot)
 
 ## How To Host
 The easiest way to deploy this Bot
