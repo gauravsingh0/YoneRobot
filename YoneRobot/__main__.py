@@ -347,7 +347,7 @@ def help_button(update, context):
 @run_async
 def pyrates_about_callback(update, context):
     query = update.callback_query
-    if query.data == "yone_":
+    if query.data == "pyrates_":
         query.message.edit_text(
             text=""" ℹ️ I'm *yone*, a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
